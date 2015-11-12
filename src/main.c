@@ -1,5 +1,5 @@
 /**
- *		Example by Nba_Yoh base on the one of smealum, thanks to him.
+ *		Example by Nba_Yoh based on the one of smealum, thanks to him.
  */
 
 #include <string.h>
